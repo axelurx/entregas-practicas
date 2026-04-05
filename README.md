@@ -4,6 +4,11 @@ Axel Uriel Gutierrez Maya
 Nombre de tu app:
 Buscador Web UVM.
 
+Descripcion:
+Un proyecto desarrollado para grupo laurate , sobre las bases de una matrix para mejorar y 
+automatizar el trabajo de los teleoperadores para mejorar las ventas y reducir el tiempo 
+y costo de capacitacion para los trabajadores.
+
 App GitHub Pages:
 Pagina Principal de Login.
 https://axelurx.github.io/entregas-practicas/buscador-web/login.html
